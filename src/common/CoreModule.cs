@@ -1,4 +1,4 @@
-﻿using common.Configuration;
+﻿using common.Configurations;
 using common.Dependency;
 using common.Dependency.Scoped;
 using common.Modules;

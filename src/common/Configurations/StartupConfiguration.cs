@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using common.Dependency;
 
-namespace common.Configuration
+namespace common.Configurations
 {
     public class StartupConfiguration : IStartupConfiguration, IShouldInitialize
     {

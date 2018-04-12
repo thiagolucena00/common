@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Collections.Immutable;
 using System.Linq;
 using common.Collections.Extensions;
-using common.Configuration;
+using common.Configurations;
 using common.Dependency;
 using common.Exceptions;
 using Castle.Core.Logging;

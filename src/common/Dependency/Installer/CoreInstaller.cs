@@ -1,4 +1,4 @@
-﻿using common.Configuration;
+﻿using common.Configurations;
 using common.Modules;
 using Castle.MicroKernel.Registration;
 using Castle.MicroKernel.SubSystems.Configuration;

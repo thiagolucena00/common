@@ -1,7 +1,7 @@
 ﻿using System;
 using common.Dependency;
 
-namespace common.Configuration
+namespace common.Configurations
 {
     /// <summary>
     ///     Used to configure application and modules on startup.
